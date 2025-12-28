@@ -1,6 +1,9 @@
 # BedlessChat
 A (somewhat) lightweight instant messaging client that i am making (its bad)
 
-defaults to my server and no username, username is in the top left.
+has to have a TCP port at the end
+eg, my-server.mydomain.xyz:19923
 
-Roadmap currently unknown. Will do some updates. Plan to get working on 3ds.
+TO DOWNLOAD (Important)
+Go to https://github.com/SamirG569/BedlessChat-SamiredRemix/releases
+And go to the first zip
